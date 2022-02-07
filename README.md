@@ -1,16 +1,13 @@
-### Hi there 👋
+<img align='right' src="images/sgtodd.png" alt="" width="50"/>
+<h1>Hello 👋, I'm Rafael Vilches!</h1>
+<hr>
+<ul>
+    <li>💻 Software Developer</li>
+    <li>🔭 Systems Analyst</li>    
+    <li>🚢 Project Manager</li>
+</ul>
 
-<!--
-**doguedogue/doguedogue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Oracle](https://img.shields.io/badge/-Oracle-336791?style=flat-square&logo=oracle)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
