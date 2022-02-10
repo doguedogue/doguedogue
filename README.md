@@ -9,6 +9,7 @@
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
 
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=black)
@@ -20,4 +21,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=doguedogue)
+![Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=doguedogue&theme=blue-green)
