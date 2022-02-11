@@ -7,6 +7,7 @@
 </ul>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=doguedogue.doguedogue)
 
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=green)
