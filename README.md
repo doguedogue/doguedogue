@@ -13,8 +13,8 @@
 </a>
 
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![C](https://img.shields.io/badge/-C-323330?logo=c%2B%2B&style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-007ACC?logo=c%2B%2B&style=flat-square&logo=c++)
+![C](https://img.shields.io/badge/C-gray.svg?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
