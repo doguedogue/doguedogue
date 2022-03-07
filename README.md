@@ -6,13 +6,11 @@
     <li>🚢 Project Manager</li>
 </ul>
 
-[![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
-<hr>
+[![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/) 
 <a href="https://platzi.com/r/leafar/">
     <img src="https://static.platzi.com/ui/assets/image/isotipoPlatzi093f27a2fb00922bb105.png" alt="" height="25" style="color:white"/>
-    🟡 Gana un mes gratis en Platzi 🟡
+    🟡 Gana un mes gratis en Platzi 🎁 
 </a>
-<hr>
 
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-323330?logo=c%2B%2B&style=flat-square&logo=c)
