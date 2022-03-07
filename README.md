@@ -5,10 +5,21 @@
     <li>🔭 Systems Analyst</li>    
     <li>🚢 Project Manager</li>
 </ul>
+<hr>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
+<br>
+<hr>
+<a href="https://platzi.com/r/leafar/">
+    <img src="https://static.platzi.com/ui/assets/image/isotipoPlatzi093f27a2fb00922bb105.png" alt="" height="25" style="color:white"/>
+    Gana un mes gratis en Platzi!
+</a>
+<br>
+<hr>
 
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/-C-323330?logo=c%2B%2B&style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-007ACC?logo=c%2B%2B&style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
