@@ -10,7 +10,7 @@
         <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
         <b>🟡Gana un mes gratis en Platzi 🎁</b>
     </a>
-    <hr>
+    <br>
 </div>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
