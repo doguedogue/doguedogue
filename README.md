@@ -6,7 +6,7 @@
     <li>🚢 Project Manager</li>
 </ul>
 <div align='center'>
-    <a href="https://platzi.com/r/leafar/">
+    <a href="https://platzi.com/r/leafar/" target="_blank">
         <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
         <b>🟡Gana un mes gratis en Platzi 🎁</b>
     </a>
