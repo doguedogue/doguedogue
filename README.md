@@ -1,19 +1,29 @@
 <img align='right' src="images/sgtodd.png" alt="" width="40"/>
 <h1>Hello 👋, I'm Rafael Vilches!</h1>
-<ul>
-    <li>💻 Software Developer</li>
-    <li>🔭 Systems Analyst</li>  
-    <li>🚢 Project Manager</li>
-</ul>
-<div align='center'>
-    <a href="https://platzi.com/r/leafar/" target="_blank">
-        <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
-        <b>🟡Gana un mes gratis en Platzi 🎁</b>
-    </a>
-    <br>
-</div>
+
+<table style="border: none; width:100%;">
+  <tr style="border: none;">
+    <td style="border: none;width:30%">
+        <ul>
+            <li>💻 Software Developer</li>
+            <li>🔭 Systems Analyst</li>  
+            <li>🚢 Project Manager</li>
+        </ul>
+    </td>
+    <td style="border: none;width:70%">
+            <div align="center">
+            <a href="https://platzi.com/r/leafar/" target="_blank">
+                <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
+                <b>🟡Gana un mes gratis en Platzi 🎁</b>
+            </a>
+            <br>
+        </div>
+    </td>
+  </tr>
+</table>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
+
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/C-gray.svg?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
