@@ -1,17 +1,17 @@
 <img align='right' src="images/sgtodd.png" alt="" width="40"/>
 <h1>Hello 👋, I'm Rafael Vilches!</h1>
 
-<table style="border: none; width:100%;">
-  <tr style="border: none;">
-    <td style="border: none;width:30%">
+<table style="border: none !important; width:100%;">
+  <tr style="border: none !important;">
+    <td style="border: none !important; width:30%">
         <ul>
             <li>💻 Software Developer</li>
             <li>🔭 Systems Analyst</li>  
             <li>🚢 Project Manager</li>
         </ul>
     </td>
-    <td style="border: none;width:70%">
-            <div align="center">
+    <td style="border: none !important; width:70%">
+        <div align="center">
             <a href="https://platzi.com/r/leafar/" target="_blank">
                 <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
                 <b>🟡Gana un mes gratis en Platzi 🎁</b>
