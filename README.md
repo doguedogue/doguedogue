@@ -7,8 +7,8 @@
 </ul>
 <div align='center'>
     <a href="https://platzi.com/r/leafar/">
-        <img width="20" src="./images/platzi.png" alt="platzi logo">
-        🟡Gana un mes gratis en Platzi 🎁
+        <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
+        <b>🟡Gana un mes gratis en Platzi 🎁</b>
     </a>
 </div>
 
