@@ -8,9 +8,8 @@
 <div align="center">
     <a href="https://platzi.com/r/leafar/" target="_blank">
         <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
-        <b>🟡Gana un mes gratis en Platzi 🎁</b>
+        <h7><b>🟡Gana un mes gratis en Platzi 🎁</b></h7>
     </a>
-    <hr>
 </div>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
