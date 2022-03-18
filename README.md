@@ -1,10 +1,8 @@
 <img align='right' src="images/sgtodd.png" alt="" width="40"/>
 <h1>Hello 👋, I'm Rafael Vilches!</h1>
-<ul>
-    <li>💻 Software Developer</li>
-    <li>🔭 Systems Analyst</li>  
-    <li>🚢 Project Manager</li>
-</ul>
+<div align="center">
+💻 Software Developer | 🔭 Systems Analyst | 🚢 Project Manager 
+</div>
 <div align="center">
     <a href="https://platzi.com/r/leafar/" target="_blank">
         <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
