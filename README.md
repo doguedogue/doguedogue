@@ -1,5 +1,5 @@
 <img align='right' src="images/sgtodd.png" alt="" width="40"/>
-<h1>Hello 😁, I'm Rafael Vilches!</h1>
+<h1>Hello 😁, I'm Rafael Vilches 🐱‍👤🤽‍♂️</h1>
 <div align="center">
 💻 Software Developer&nbsp;&nbsp;|&nbsp;&nbsp; 🔭 Systems Analyst&nbsp;&nbsp;|&nbsp;&nbsp;🚢 Project Manager 
 </div>
