@@ -28,4 +28,4 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-![Most Used Language](https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook&theme=blue-green)
+![Most Used Language](https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Typescript&theme=blue-green)
