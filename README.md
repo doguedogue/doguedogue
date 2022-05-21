@@ -30,6 +30,7 @@
 
 ![Most Used Language](https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=highcontrast)
 
+
 <a href="">
   <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=highcontrast)" />
 </a>
