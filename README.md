@@ -33,10 +33,6 @@
 | ------------- | ------------- |
 
 
-<a href="https://yearbook-nodejs.herokuapp.com/">
-  <h1>Yearbook LaunchX May 2022</h1>
-</a>
-<a href="https://yearbook-nodejs.herokuapp.com/" title="Yearbook LaunchX May 2022 Woopa!">
-  <img align="center" src="./images/yearbook-nodejs.png" />
-</a>
+<a href="https://yearbook-nodejs.herokuapp.com/" title="Yearbook LaunchX May 2022 Woopa!"> <h1>Yearbook LaunchX May 2022</h1> </a>
+<img align="center" src="./images/yearbook-nodejs.png" />
 
