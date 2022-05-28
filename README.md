@@ -28,12 +28,12 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-005C84?style=flat-square&logo=mysql&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat-square&logo=git&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=flat-square&logo=gitlab&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat-square&logo=xbox&logoColor=white)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
 | ------------- | ------------- |
