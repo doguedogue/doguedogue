@@ -12,6 +12,7 @@
 <br>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoguedogue%2Fhit-counter&count_bg=%232B76D0&title_bg=%23DCBF2D&icon=&icon_color=%23E7E7E7&title=RVA&edge_flat=true)](https://hits.seeyoufarm.com)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/C-gray.svg?style=flat-square&logo=c)
