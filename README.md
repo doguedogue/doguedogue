@@ -46,7 +46,7 @@
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Asana](https://img.shields.io/badge/asana-CC2927.svg?&style=flat-square&logo=asana&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-gray.svg?&style=flat-square&logo=Docker&logoColor=blue)
-![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=black)
+![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 ![PMI](https://img.shields.io/badge/-PMI-003545?style=flat-square)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
