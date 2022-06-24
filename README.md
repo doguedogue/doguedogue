@@ -41,7 +41,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-CC2927.svg?&style=flat-square&logo=jenkins&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-007ACC.svg?&style=flat-square&logo=figma&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-007ACC.svg?&style=flat-square&logo=figma&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Asana](https://img.shields.io/badge/asana-CC2927.svg?&style=flat-square&logo=asana&logoColor=white)
