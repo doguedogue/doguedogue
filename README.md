@@ -44,7 +44,7 @@
 ![Figma](https://img.shields.io/badge/Figma-007ACC.svg?&style=flat-square&logo=figma&logoColor=black)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
-![Asana](https://img.shields.io/badge/asana-CC2927.svg?&style=flat-square&logo=asana&logoColor=white)
+![Asana](https://img.shields.io/badge/Asana-CC2927.svg?&style=flat-square&logo=asana&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-gray.svg?&style=flat-square&logo=Docker&logoColor=blue)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 ![PMI](https://img.shields.io/badge/-PMI-003545?style=flat-square)
