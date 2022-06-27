@@ -45,6 +45,7 @@
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
 ![Asana](https://img.shields.io/badge/Asana-CC2927.svg?&style=flat-square&logo=asana&logoColor=white)
+![Teams](https://img.shields.io/badge/Teams-6264A7?&style=flat-square&logo=microsoft-teams&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-gray.svg?&style=flat-square&logo=Docker&logoColor=blue)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?&style=flat-square&logo=swagger&logoColor=blue)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white)
