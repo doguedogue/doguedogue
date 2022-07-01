@@ -49,6 +49,7 @@
 ![Docker](https://img.shields.io/badge/Docker-gray.svg?&style=flat-square&logo=Docker&logoColor=blue)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?&style=flat-square&logo=swagger&logoColor=blue)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?&style=flat-square&logo=eclipse&logoColor=white)
+![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-blue?style=flat-square&logo=scrumalliance&logoColor=white)
 ![PMI](https://img.shields.io/badge/-PMI-003545?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGvSURBVEhLY/wPBAw0AkyMjIwM+DAKSBJgYLhzFsrBAkKB6kFqoACkm6DL4Z5D0sgw7wOUAQRRQGM4+KEcIIDKMYFJIAAZgA2DAIYPQADZImSDkQDccLJAHGowoAPKDGfB7mIYgBuOHpEwTAkg6PJv377Bw55UQDBCOTk5oSqwAFCq+PMRysEE5If5D6ihi3D7ijzDQS5ehmQokP/fuxbKQQCaZn9Glv0PiDL8t4M8g7/ESigPP9j4IhxMkx/mQNC0zp5h4WV/KA8TMIFcRAhgUzPpkDtDXdBBBgFRDganOHmGLy//QGUQAOxyfBbgkpNXEwAbGKO7niG/y4KBR5wFKoMA8GAhxgcgYBQmxZDUrsfgzLiUYe//aIbnV74xTCw7wbD8VhBUBQKQHObnVj1j8E/UBLNBrgZZsHv2AwYuPlaG32//gcVhAG4464GHUBZh4MW9HO7qqbWnGLa8jwCnpMp1llAVEMAEMhSfwbjkP7z+wbD8cQDDrtn3wXxQ+PekngSzYYCspLjtayRDvO5GBjEZboaC6WYMXqwQn6ADmmSi+ddcGe7du0fL7M/AAAAr1rVIIDHn6wAAAABJRU5ErkJggg==)
 
