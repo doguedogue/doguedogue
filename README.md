@@ -4,10 +4,13 @@
 💻 Software Developer&nbsp;&nbsp;|&nbsp;&nbsp; 🔭 Systems Analyst&nbsp;&nbsp;|&nbsp;&nbsp;🚢 Project Manager 
 </div>
 <div align="center">
-    <a href="https://platzi.com/r/leafar/" target="_blank">
-        <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
-        <b>🟡Win a free month at Platzi 🎁</b>
-    </a>
+    <details>
+        <summary><b>🎁 Open me if you want a prize</b></summary>
+        <a href="https://platzi.com/r/leafar/" target="_blank">
+            <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
+            <b>🟡Win a free month at Platzi 🎁</b>
+        </a>
+    </details>
 </div>
 <br>
 
