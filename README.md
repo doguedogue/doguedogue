@@ -12,7 +12,6 @@
         </a>
     </details>
 </div>
-<br>
 
 [![Linkedin: RafaelVilches](https://img.shields.io/badge/-RafaelVilches-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-vilches/)](https://www.linkedin.com/in/rafael-vilches/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdoguedogue%2Fhit-counter&count_bg=%232B76D0&title_bg=%23DCBF2D&icon=&icon_color=%23E7E7E7&title=RV&edge_flat=true)](https://hits.seeyoufarm.com)
