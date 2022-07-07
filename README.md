@@ -1,7 +1,9 @@
 <img align='right' src="images/sgtodd.png" alt="" width="40"/>
 <h1>Hello 😁, I'm Rafael Vilches :octocat:</h1>
 <div align="center">
-💻 Software Developer&nbsp;&nbsp;|&nbsp;&nbsp; 🔭 Systems Analyst&nbsp;&nbsp;|&nbsp;&nbsp;🚢 Project Manager 
+<h3>
+    💻 Software Developer&nbsp;&nbsp;|&nbsp;&nbsp; 🔭 Systems Analyst&nbsp;&nbsp;|&nbsp;&nbsp;🚢 Project Manager
+</h3>
 </div>
 <div align="center">
     <details>
