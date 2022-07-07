@@ -7,7 +7,7 @@
 </div>
 <div align="center">
     <details>
-        <summary><b>🎁 Open me if you want a prize</b></summary>
+        <summary><b>🎁 Open me if you want a prize (Sponsors)</b></summary>
         <a href="https://platzi.com/r/leafar/" target="_blank">
             <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
             <b>🟡Win a free month at Platzi 🎁</b>
