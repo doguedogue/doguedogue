@@ -1,10 +1,6 @@
 <img align='right' src="images/sgtodd.png" alt="" width="40"/>
-<h1>Hello 😁, I'm Rafael Vilches :octocat:</h1>
-<div align="center">
-<h3>
-    💻 Software Developer&nbsp;&nbsp;|&nbsp;&nbsp; 🔭 Systems Analyst&nbsp;&nbsp;|&nbsp;&nbsp;🚢 Project Manager
-</h3>
-</div>
+<h3>Hello 😁, I'm <i>Rafael</i>&nbsp;&nbsp;:octocat: Software Developer 💻&nbsp;&nbsp;|&nbsp;&nbsp; Systems Analyst 🔭&nbsp;&nbsp;|&nbsp;&nbsp;Project Manager 🚢</h3>
+<hr>
 <div align="center">
     <details>
         <summary><b>🎁 Open me if you want a prize (Sponsors)</b></summary>
