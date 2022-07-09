@@ -51,6 +51,7 @@
 ![Asana](https://img.shields.io/badge/Asana-CC2927.svg?&style=flat-square&logo=asana&logoColor=white)
 ![Teams](https://img.shields.io/badge/Teams-6264A7?&style=flat-square&logo=microsoft-teams&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-gray.svg?&style=flat-square&logo=Docker&logoColor=blue)
+![K8s](https://img.shields.io/badge/K8s-%23326CE5.svg?&style=flat-square&logo=kubernetes&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?&style=flat-square&logo=swagger&logoColor=blue)
 ![Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?&style=flat-square&logo=eclipse&logoColor=white)
