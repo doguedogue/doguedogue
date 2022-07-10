@@ -10,7 +10,7 @@
         <br>
         <a href="https://py.pl/DA7CF" target="_blank">
             <img width="20" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal Logo" style="color:white">
-            <b>🟡Win a 100MNX PayPal Coupon (Just New Users) 🎁</b>
+            <b>🟡Win a PayPal Coupon (Just New Users) 🎁</b>
         </a>
          <br>
         <a href="https://paypal.me/doguedogue" target="_blank">
