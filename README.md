@@ -45,6 +45,7 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=flat-square&logo=Firebase&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit-007ACC?style=flat-square&logo=JUnit5&logoColor=yellow)
 ![Jest](https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-CC2927.svg?&style=flat-square&logo=jenkins&logoColor=white)
