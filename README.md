@@ -5,17 +5,27 @@
         <summary><b>🎁 Open me if you want a prize (Sponsors)</b></summary>
         <a href="https://platzi.com/r/leafar/" target="_blank">
             <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
-            <b>🟡Win a free month at Platzi 🎁</b>
+            <b>🟡 Win a free month at Platzi 🎁</b>
         </a>
         <br>
         <a href="https://py.pl/DA7CF" target="_blank">
             <img width="20" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal Logo" style="color:white">
-            <b>🟡Win a PayPal Coupon (Just New Users) 🎁</b>
+            <b>🟢 Win a PayPal Coupon (Just New Users) 🎁</b>
         </a>
-         <br>
+        <br>
+        <a href="https://mpago.li/1qnAQDo" target="_blank">
+            <img width="30" src="./images/ML.png" alt="PayPal Logo" style="color:white">
+            <b>🟠 Win a ML MP 🎁</b>
+        </a>
+        <br>
+        <a href="https://mpago.li/17t2HPt" target="_blank">
+            <img width="30" src="./images/ML.png" alt="PayPal Logo" style="color:white">
+            <b>🔵 Win a ML Coupon 🎁</b>
+        </a>
+        <br>
         <a href="https://paypal.me/doguedogue" target="_blank">
             <img width="20" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal Logo" style="color:white">
-            <b>➡️➡️➡️➡️ Or Just PayPal.Me 💸</b>
+            <b>➡️➡️➡️➡️ Or Just PayPal.Me 😹😹😹💸</b>
         </a>
     </details>
 </div>
