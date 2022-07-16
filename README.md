@@ -10,16 +10,16 @@
         <br>
         <a href="https://py.pl/DA7CF" target="_blank">
             <img width="20" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal Logo" style="color:white">
-            <b>🟢 Win a PayPal Coupon (Just New Users) 🎁</b>
+            <b>🟢 Win a PayPal Coupon 🎁</b>
         </a>
         <br>
         <a href="https://mpago.li/1qnAQDo" target="_blank">
-            <img width="30" src="./images/ML.png" alt="PayPal Logo" style="color:white">
-            <b>🟠 Win a ML MP 🎁</b>
+            <img width="25" src="./images/MP.png" alt="PayPal Logo" style="color:white">
+            <b>🟠 Win a ML MP Discount 🎁</b>
         </a>
         <br>
         <a href="https://mpago.li/17t2HPt" target="_blank">
-            <img width="30" src="./images/ML.png" alt="PayPal Logo" style="color:white">
+            <img width="35" src="./images/ML.png" alt="PayPal Logo" style="color:white">
             <b>🔵 Win a ML Coupon 🎁</b>
         </a>
         <br>
