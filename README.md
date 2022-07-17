@@ -36,6 +36,7 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/C-gray.svg?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/C++-blue.svg?style=flat-square&logo=c%2B%2B)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=green)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
