@@ -79,10 +79,14 @@
 ![PMI](https://img.shields.io/badge/-PMI-003545?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGvSURBVEhLY/wPBAw0AkyMjIwM+DAKSBJgYLhzFsrBAkKB6kFqoACkm6DL4Z5D0sgw7wOUAQRRQGM4+KEcIIDKMYFJIAAZgA2DAIYPQADZImSDkQDccLJAHGowoAPKDGfB7mIYgBuOHpEwTAkg6PJv377Bw55UQDBCOTk5oSqwAFCq+PMRysEE5If5D6ihi3D7ijzDQS5ehmQokP/fuxbKQQCaZn9Glv0PiDL8t4M8g7/ESigPP9j4IhxMkx/mQNC0zp5h4WV/KA8TMIFcRAhgUzPpkDtDXdBBBgFRDganOHmGLy//QGUQAOxyfBbgkpNXEwAbGKO7niG/y4KBR5wFKoMA8GAhxgcgYBQmxZDUrsfgzLiUYe//aIbnV74xTCw7wbD8VhBUBQKQHObnVj1j8E/UBLNBrgZZsHv2AwYuPlaG32//gcVhAG4464GHUBZh4MW9HO7qqbWnGLa8jwCnpMp1llAVEMAEMhSfwbjkP7z+wbD8cQDDrtn3wXxQ+PekngSzYYCspLjtayRDvO5GBjEZboaC6WYMXqwQn6ADmmSi+ddcGe7du0fL7M/AAAAr1rVIIDHn6wAAAABJRU5ErkJggg==)
 
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language"><img align="center" src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&theme=tokyonight" alt="Top langs" /> </a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&theme=tokyonight" alt="My stats" /></a> |
-| ------------- | ------------- |
-
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">
+<img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
+</a> 
+</div>
 
 <a href="https://yearbook-nodejs.herokuapp.com/" title="Yearbook InnovaVirtual Jun 2022 AZ900!"> <h1>Yearbook InnovaVirtual Jun 2022 AZ900</h1> </a>
 <img align="center" src="./images/yearbook-az900.png" />
