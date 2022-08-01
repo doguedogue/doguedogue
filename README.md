@@ -3,6 +3,11 @@
 <div align="center">
     <details>
         <summary><b>🎁 Open me if you want a prize (Sponsors)</b></summary>
+        <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate" target="_blank">
+            <img width="20" src="https://www.who.int/images/default-source/fallback/header-logos/h-logo-blue.svg?sfvrsn=aaed4f35_18" alt="WHO Logo" style="color:white">
+            <b> Donate to World Health Organization to fight COVID-19 💸</b>
+        </a>
+        <br>
         <a href="https://platzi.com/r/leafar/" target="_blank">
             <img width="20" src="./images/platzi.png" alt="platzi logo" style="color:white">
             <b>🟡 Win a free month at Platzi 🎁</b>
