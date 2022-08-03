@@ -3,6 +3,11 @@
 <div align="center">
     <details>
         <summary><b>🎁 Open me if you want a prize (Sponsors)</b></summary>
+        <a href="https://unicef.org.mx/donaciones/" target="_blank">
+            <img width="20" src="https://unicef.org.mx/cropped-logo-unicef-32x32.png" alt="Unicef Logo" style="color:white">
+            <b> Donate to Unicef 💸</b>
+        </a>
+        <br>
         <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/donate" target="_blank">
             <img width="20" src="https://www.who.int/images/default-source/fallback/header-logos/h-logo-blue.svg?sfvrsn=aaed4f35_18" alt="WHO Logo" style="color:white">
             <b> Donate to World Health Organization to fight COVID-19 💸</b>
