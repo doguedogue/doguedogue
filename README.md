@@ -98,7 +98,6 @@
 <img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
 </a> 
 </div>
-<hr>
 <div align="center">
 <a href="https://github.com/doguedogue/ONE">
 <img src="images/bola8.gif" alt="drawing" width="600"/>
