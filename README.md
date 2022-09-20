@@ -99,6 +99,7 @@
 </a> 
 </div>
 
-<a href="https://yearbook-nodejs.herokuapp.com/" title="Yearbook InnovaVirtual Jun 2022 AZ900!"> <h1>Yearbook InnovaVirtual Jun 2022 AZ900</h1> </a>
-<img align="center" src="./images/yearbook-az900.png" />
+<div align="center">
+<img src="images/bola8.gif" alt="drawing" width="600"/>
+</div>
 
