@@ -33,6 +33,11 @@
             <b>🔵 Win a ML Coupon 🎁</b>
         </a>
         <br>
+        <a href="https://www.buymeacoffee.com/doguedogue" target="_blank">
+            <img width="28" src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png?compress=1&resize=400x300&vertical=top" alt="BuyMeaCoffee Logo" style="color:white">
+            <b>🟣 Buy me a coffee ☕</b>
+        </a>        
+        <br>
         <a href="https://paypal.me/doguedogue" target="_blank">
             <img width="20" src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="PayPal Logo" style="color:white">
             <b>➡️➡️➡️➡️ Or Just PayPal.Me 😹😹😹💸</b>
