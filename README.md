@@ -108,4 +108,20 @@
 <img src="images/bola8.gif" alt="drawing" width="600"/>
 </a>
 </div>
+<hr>
+
+<div align="center">
+
+### Communities
+
+</div>
+
+<div align="center"> 
+<a href="https://github.com/hoodyth" title="Hoodyth">
+<img height=210 src="./images/hoodyth.png" alt="Hoodyth" />
+</a>
+<a href="https://github.com/PEK-Personal-English-Knowledge" title="PEK">
+<img height=210 src="./images/pek.png" alt="PEK" />
+</a> 
+</div>
 
