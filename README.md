@@ -105,13 +105,6 @@
 </a> 
 </div>
 <div align="center">
-<a href="https://github.com/doguedogue/ONE">
-<img src="images/bola8.gif" alt="drawing" width="600"/>
-</a>
-</div>
-<hr>
-
-<div align="center">
 
 ### Communities 🛸
 
@@ -125,4 +118,8 @@
 <img height=210 src="./images/pek.png" alt="PEK" />
 </a> 
 </div>
-
+<div align="center">
+<a href="https://github.com/doguedogue/ONE">
+<img src="images/bola8.gif" alt="drawing" width="600"/>
+</a>
+</div>
