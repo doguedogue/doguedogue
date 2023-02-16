@@ -111,7 +111,7 @@
 <div align="center">
 <a href="https://www.credly.com/badges/befcc041-e63d-4a70-8f4c-ea02bee9b25e" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219253087-e42abac2-762e-430c-ba2a-98ca42484868.png">
 <a href="https://www.credly.com/badges/e1846235-7ca5-4497-a420-b0fc61d416ec" target="_blank"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219252964-d37a5d96-b0bc-46b5-a986-eee2f3d523ed.png">
-<a href="https://app.aluracursos.com/user/rafael-vilches/program/certificate" target="_blank"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219255795-56b0ceab-d1b9-4a0c-8180-44a61226b0dd.png">    
+<a href="https://app.aluracursos.com/program/certificate/d53f380a-72e4-4503-8ea4-9c0095f10246" target="_blank"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219255795-56b0ceab-d1b9-4a0c-8180-44a61226b0dd.png">    
 </div>
     
 ### Communities 🛸
