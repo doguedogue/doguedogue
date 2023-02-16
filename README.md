@@ -109,6 +109,7 @@
 ### Certifications 🚀
 
 <div align="center">
+<a href="#" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219259717-5934b7cc-7c7b-4e11-b176-92d87d07e8a2.png">    
 <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=792988" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219258605-633580c1-f2f4-476a-823c-8bf779e84710.png">
 <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=602688" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219258820-19cec6db-0e39-46e4-9e1f-54b2d2dd1108.png">
 <a href="https://www.credly.com/badges/befcc041-e63d-4a70-8f4c-ea02bee9b25e" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219253087-e42abac2-762e-430c-ba2a-98ca42484868.png">
