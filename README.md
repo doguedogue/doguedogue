@@ -113,9 +113,11 @@
 <a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=792988" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219258605-633580c1-f2f4-476a-823c-8bf779e84710.png">
 <a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=602688" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219258820-19cec6db-0e39-46e4-9e1f-54b2d2dd1108.png">
 <a href="https://www.credly.com/badges/befcc041-e63d-4a70-8f4c-ea02bee9b25e" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219253087-e42abac2-762e-430c-ba2a-98ca42484868.png">
-<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D22C510C1A006194B0723C4C967D402271D3590B733F266B420CF711ED7E98A5&fbclid=IwAR3DzL7Oh5-CTKcM1Oe5z3Km2AtGja-P2ZitC52vkh5jMAA24X0svhSP2I4" target="_blank"><img aling="center" width="110" height="110" src="https://user-images.githubusercontent.com/23409026/219258267-ed8ec13b-ad36-467c-a7aa-dba226ae2c16.png">    
-
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D22C510C1A006194B0723C4C967D402271D3590B733F266B420CF711ED7E98A5&fbclid=IwAR3DzL7Oh5-CTKcM1Oe5z3Km2AtGja-P2ZitC52vkh5jMAA24X0svhSP2I4" target="_blank"><img aling="center" width="110" height="110" src="https://user-images.githubusercontent.com/23409026/219258267-ed8ec13b-ad36-467c-a7aa-dba226ae2c16.png">
+    
+<a href="https://www.credly.com/badges/ddbd6c07-8aad-4d8f-921b-3c2f8a2cddc2" target="_blank"> <img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/225188849-c12cfd33-c8dd-4add-af37-334ce2ea822e.png">
 </div>
+
 
 ### Courses 📖
     
