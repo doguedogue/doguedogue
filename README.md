@@ -121,11 +121,11 @@
 
 ### Courses 📖
     
-<div align="center"> 
-<a href="https://www.credly.com/badges/e1846235-7ca5-4497-a420-b0fc61d416ec" target="_blank"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219252964-d37a5d96-b0bc-46b5-a986-eee2f3d523ed.png">    
+<div align="center">    
 <a href="https://app.aluracursos.com/program/certificate/d53f380a-72e4-4503-8ea4-9c0095f10246" target="_blank"><img aling="center" width="110" height="110" src="https://user-images.githubusercontent.com/23409026/219407470-9262958a-1624-49be-b014-047eeef334b8.png">
 <a href="#" target="_blank"><img aling="center" width="" height="100" src="https://user-images.githubusercontent.com/23409026/219502504-cd1fb2dc-67bd-4cf4-b15b-f0127abbcfe3.png">
-<a href="https://www.credly.com/badges/33125cce-0246-4bce-97fa-e7f3f6cb1fc0" target="_blank"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/220003230-e962b46f-ac22-4f42-a0a4-fa2d3e559c41.png">    
+<a href="https://www.credly.com/badges/33125cce-0246-4bce-97fa-e7f3f6cb1fc0" target="_blank"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/220003230-e962b46f-ac22-4f42-a0a4-fa2d3e559c41.png">
+<a href="https://www.credly.com/badges/e1846235-7ca5-4497-a420-b0fc61d416ec" target="_blank"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219252964-d37a5d96-b0bc-46b5-a986-eee2f3d523ed.png">    
 </div>  
   
 ### Communities 🛸
