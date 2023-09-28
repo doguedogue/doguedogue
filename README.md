@@ -98,7 +98,7 @@
 
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language">
-<img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" />
+<img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=PHP,SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" />
