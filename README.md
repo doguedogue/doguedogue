@@ -1,5 +1,5 @@
 <img align='right' src="images/sgtodd.png" alt="" width="40"/>
-<h3>Hello 😁, I'm <i>Rafael</i>&nbsp;&nbsp;Software Developer 💻&nbsp;&nbsp;|&nbsp;&nbsp; Systems Analyst 🔭&nbsp;&nbsp;|&nbsp;&nbsp;Project Manager 🚢</h3>
+<h3>Hello 😁, I'm <i>Rafael</i>,&nbsp;&nbsp;Software Developer 💻&nbsp;&nbsp;|&nbsp;&nbsp; Systems Analyst 🔭&nbsp;&nbsp;|&nbsp;&nbsp;Project Manager 🚢</h3>
 <div align="center">
     <details>
         <summary><b>🎁 Open me if you want a prize (Sponsors)</b></summary>
