@@ -4,7 +4,7 @@
     <details>
         <summary><b>🎁 Open me if you want a prize (Sponsors)</b></summary>
         <a href="https://unicef.org.mx/donaciones/" target="_blank">
-            <img width="20" src="https://unicef.org.mx/cropped-logo-unicef-32x32.png" alt="Unicef Logo" style="color:white">
+            <img width="20" src="https://www.un.org/ruleoflaw/wp-content/uploads/2015/04/uniceflogo.png" alt="Unicef Logo" style="color:white">
             <b> Donate to Unicef 💸</b>
         </a>
         <br>
