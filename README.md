@@ -14,18 +14,6 @@
             <b>🟢 Win a PayPal Coupon 🎁</b>
         </a>
         <br>
-        <
-a href="https://mpago.li/1qnAQDo" target="_blank">
-            <img width="25" src="./images/MP.png" alt="PayPal Logo" style="color:white">
-            <b>🟠 Win a ML MP Discount 🎁</b>
-        </a>
-        <br>
-        <
-a href="https://mpago.li/17t2HPt" target="_blank">
-            <img width="35" src="./images/ML.png" alt="PayPal Logo" style="color:white">
-            <b>🔵 Win a ML Coupon 🎁</b>
-        </a>
-        <br>
         <a href="https://www.buymeacoffee.com/doguedogue" target="_blank">
             <img width="28" src="https://cdn.dribbble.com/users/3349322/screenshots/14039201/media/1d43324ff4b1a3850533fdbb823b8b59.png?compress=1&resize=400x300&vertical=top" alt="BuyMeaCoffee Logo" style="color:white">
             <b>🟣 Buy me a coffee ☕</b>
@@ -105,13 +93,4 @@ a href="https://mpago.li/17t2HPt" target="_blank">
 <a href="https://www.credly.com/badges/33125cce-0246-4bce-97fa-e7f3f6cb1fc0" target="_blank" style="text-decoration:none;"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/220003230-e962b46f-ac22-4f42-a0a4-fa2d3e559c41.png"></a>
 <a href="https://www.credly.com/badges/e1846235-7ca5-4497-a420-b0fc61d416ec" target="_blank" style="text-decoration:none;"><img aling="center" width="100" height="100" src="https://user-images.githubusercontent.com/23409026/219252964-d37a5d96-b0bc-46b5-a986-eee2f3d523ed.png"></a>
 </div>  
-  
-### Communities 🛸
-
-</div>
-
-<div align="center"> 
-<a href="https://github.com/hoodyth" title="Hoodyth" style="text-decoration:none;"><img height=100 src="./images/hoodyth.png" alt="Hoodyth"/></a>
-<a href="https://github.com/PEK-Personal-English-Knowledge" title="PEK" style="text-decoration:none;"><img height=100 src="./images/pek.png" alt="PEK"/></a> 
-</div>
 
