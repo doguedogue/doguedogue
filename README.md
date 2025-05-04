@@ -20,7 +20,8 @@ a href="https://mpago.li/1qnAQDo" target="_blank">
             <b>🟠 Win a ML MP Discount 🎁</b>
         </a>
         <br>
-        <a href="https://mpago.li/17t2HPt" target="_blank">
+        <
+a href="https://mpago.li/17t2HPt" target="_blank">
             <img width="35" src="./images/ML.png" alt="PayPal Logo" style="color:white">
             <b>🔵 Win a ML Coupon 🎁</b>
         </a>
@@ -113,8 +114,4 @@ a href="https://mpago.li/1qnAQDo" target="_blank">
 <a href="https://github.com/hoodyth" title="Hoodyth" style="text-decoration:none;"><img height=100 src="./images/hoodyth.png" alt="Hoodyth"/></a>
 <a href="https://github.com/PEK-Personal-English-Knowledge" title="PEK" style="text-decoration:none;"><img height=100 src="./images/pek.png" alt="PEK"/></a> 
 </div>
-<div align="center">
-<a href="https://github.com/doguedogue/ONE">
-<img src="images/bola8.gif" alt="drawing" width="600"/>
-</a>
-</div>
+
