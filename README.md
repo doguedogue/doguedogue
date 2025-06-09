@@ -90,6 +90,7 @@
 <a href="https://app.aluracursos.com/program/certificate/d53f380a-72e4-4503-8ea4-9c0095f10246" target="_blank" style="text-decoration:none;"><img aling="center" width="75" height="75" src="https://user-images.githubusercontent.com/23409026/219407470-9262958a-1624-49be-b014-047eeef334b8.png"></a>
 <a href="#" target="_blank" style="text-decoration:none;"><img aling="center" width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219502504-cd1fb2dc-67bd-4cf4-b15b-f0127abbcfe3.png"></a>
 <a href="https://www.credly.com/badges/33125cce-0246-4bce-97fa-e7f3f6cb1fc0" target="_blank" style="text-decoration:none;"><img aling="center" width="60" height="60" src="https://user-images.githubusercontent.com/23409026/220003230-e962b46f-ac22-4f42-a0a4-fa2d3e559c41.png"></a>
+<a href="https://www.credly.com/badges/2fd861c7-7db5-4049-96a7-e43b00a9f30b" target="_blank" style="text-decoration:none;"><img aling="center" width="60" height="60" src="https://github.com/doguedogue/doguedogue/blob/main/images/python_essentials_2.png"></a>
 <a href="https://www.credly.com/badges/e1846235-7ca5-4497-a420-b0fc61d416ec" target="_blank" style="text-decoration:none;"><img aling="center" width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219252964-d37a5d96-b0bc-46b5-a986-eee2f3d523ed.png"></a>
 </div>  
 
