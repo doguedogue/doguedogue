@@ -66,18 +66,32 @@
 ![PMI](https://img.shields.io/badge/-PMI-003545?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABcAAAAXCAYAAADgKtSgAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAGvSURBVEhLY/wPBAw0AkyMjIwM+DAKSBJgYLhzFsrBAkKB6kFqoACkm6DL4Z5D0sgw7wOUAQRRQGM4+KEcIIDKMYFJIAAZgA2DAIYPQADZImSDkQDccLJAHGowoAPKDGfB7mIYgBuOHpEwTAkg6PJv377Bw55UQDBCOTk5oSqwAFCq+PMRysEE5If5D6ihi3D7ijzDQS5ehmQokP/fuxbKQQCaZn9Glv0PiDL8t4M8g7/ESigPP9j4IhxMkx/mQNC0zp5h4WV/KA8TMIFcRAhgUzPpkDtDXdBBBgFRDganOHmGLy//QGUQAOxyfBbgkpNXEwAbGKO7niG/y4KBR5wFKoMA8GAhxgcgYBQmxZDUrsfgzLiUYe//aIbnV74xTCw7wbD8VhBUBQKQHObnVj1j8E/UBLNBrgZZsHv2AwYuPlaG32//gcVhAG4464GHUBZh4MW9HO7qqbWnGLa8jwCnpMp1llAVEMAEMhSfwbjkP7z+wbD8cQDDrtn3wXxQ+PekngSzYYCspLjtayRDvO5GBjEZboaC6WYMXqwQn6ADmmSi+ddcGe7du0fL7M/AAAAr1rVIIDHn6wAAAABJRU5ErkJggg==)
 
 
-<p align="center"> 
+ 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Most Used Language" style="text-decoration:none;"><img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api/top-langs/?username=doguedogue&hide=C%23,PHP,SCSS,CSS,HTML,CSS,Jupyter%20Notebook,Vue,Dockerfile,Shell,Typescript&layout=compac&hide_border=1&role=OWNER,COLLABORATOR&theme=tokyonight" alt="Top langs" /></a><a href="https://github.com/anuraghazra/github-readme-stats" style="text-decoration:none;"><img height=210 src="https://github-readme-stats-git-master-doguedogue.vercel.app/api?username=doguedogue&show_icons=true&hide_border=1&theme=tokyonight" alt="My stats" /></a> 
-</p>
+
 
 ### Certifications 🚀
 
-<p align="center">
-  <a href="#" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219405754-4a49e314-c302-4d65-8f98-95853888a778.png" /></a><a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=792988" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219258605-633580c1-f2f4-476a-823c-8bf779e84710.png" /></a><a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=602688" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219258820-19cec6db-0e39-46e4-9e1f-54b2d2dd1108.png" /></a><a href="https://www.credly.com/badges/befcc041-e63d-4a70-8f4c-ea02bee9b25e" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219253087-e42abac2-762e-430c-ba2a-98ca42484868.png" /></a><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D22C510C1A006194B0723C4C967D402271D3590B733F266B420CF711ED7E98A5&fbclid=IwAR3DzL7Oh5-CTKcM1Oe5z3Km2AtGja-P2ZitC52vkh5jMAA24X0svhSP2I4" target="_blank"><img width="80" height="80" src="https://user-images.githubusercontent.com/23409026/219258267-ed8ec13b-ad36-467c-a7aa-dba226ae2c16.png" /></a><a href="https://www.credly.com/badges/ddbd6c07-8aad-4d8f-921b-3c2f8a2cddc2" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/225188849-c12cfd33-c8dd-4add-af37-334ce2ea822e.png" /></a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center"><a href="#" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219405754-4a49e314-c302-4d65-8f98-95853888a778.png" /></a></td>
+    <td align="center"><a href="https://www.scrumstudy.com/certification/verify?type=SMC&number=792988" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219258605-633580c1-f2f4-476a-823c-8bf779e84710.png" /></a></td>
+    <td align="center"><a href="https://www.scrumstudy.com/certification/verify?type=SFC&number=602688" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219258820-19cec6db-0e39-46e4-9e1f-54b2d2dd1108.png" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/befcc041-e63d-4a70-8f4c-ea02bee9b25e" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219253087-e42abac2-762e-430c-ba2a-98ca42484868.png" /></a></td>
+    <td align="center"><a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=D22C510C1A006194B0723C4C967D402271D3590B733F266B420CF711ED7E98A5&fbclid=IwAR3DzL7Oh5-CTKcM1Oe5z3Km2AtGja-P2ZitC52vkh5jMAA24X0svhSP2I4" target="_blank"><img width="80" height="80" src="https://user-images.githubusercontent.com/23409026/219258267-ed8ec13b-ad36-467c-a7aa-dba226ae2c16.png" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/ddbd6c07-8aad-4d8f-921b-3c2f8a2cddc2" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/225188849-c12cfd33-c8dd-4add-af37-334ce2ea822e.png" /></a></td>
+  </tr>
+</table>
 
 ### Courses 📖
     
-<p align="center">
-  <a href="https://app.aluracursos.com/program/certificate/d53f380a-72e4-4503-8ea4-9c0095f10246" target="_blank"><img width="75" height="75" src="https://user-images.githubusercontent.com/23409026/219407470-9262958a-1624-49be-b014-047eeef334b8.png" /></a><a href="#" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219502504-cd1fb2dc-67bd-4cf4-b15b-f0127abbcfe3.png" /></a><a href="https://www.credly.com/badges/33125cce-0246-4bce-97fa-e7f3f6cb1fc0" target="_blank"><img width="60" height="60" src="https://user-images.githubusercontent.com/23409026/220003230-e962b46f-ac22-4f42-a0a4-fa2d3e559c41.png" /></a><a href="https://www.credly.com/badges/2fd861c7-7db5-4049-96a7-e43b00a9f30b" target="_blank"><img width="60" height="60" src="https://github.com/doguedogue/doguedogue/blob/main/images/python_essentials_2.png" /></a><a href="https://www.credly.com/badges/e1846235-7ca5-4497-a420-b0fc61d416ec" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219252964-d37a5d96-b0bc-46b5-a986-eee2f3d523ed.png" /></a>
-</p>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td align="center"><a href="https://app.aluracursos.com/program/certificate/d53f380a-72e4-4503-8ea4-9c0095f10246" target="_blank"><img width="75" height="75" src="https://user-images.githubusercontent.com/23409026/219407470-9262958a-1624-49be-b014-047eeef334b8.png" /></a></td>
+    <td align="center"><a href="#" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219502504-cd1fb2dc-67bd-4cf4-b15b-f0127abbcfe3.png" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/33125cce-0246-4bce-97fa-e7f3f6cb1fc0" target="_blank"><img width="60" height="60" src="https://user-images.githubusercontent.com/23409026/220003230-e962b46f-ac22-4f42-a0a4-fa2d3e559c41.png" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/2fd861c7-7db5-4049-96a7-e43b00a9f30b" target="_blank"><img width="60" height="60" src="https://github.com/doguedogue/doguedogue/blob/main/images/python_essentials_2.png" /></a></td>
+    <td align="center"><a href="https://www.credly.com/badges/e1846235-7ca5-4497-a420-b0fc61d416ec" target="_blank"><img width="70" height="70" src="https://user-images.githubusercontent.com/23409026/219252964-d37a5d96-b0bc-46b5-a986-eee2f3d523ed.png" /></a></td>
+  </tr>
+</table>
+
