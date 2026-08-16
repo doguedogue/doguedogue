@@ -96,8 +96,11 @@
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td align="center"><a href="https://www.credly.com/badges/44e382bc-bce5-4f60-b3a0-56dfc0300181/public_url" target="_blank"><img width="75" height="75" src="https://github.com/user-attachments/assets/9f848cdc-96c8-457b-b190-3f4364fba88e"/></a></td>
-    
+    <td align="center"><a href="https://www.credly.com/badges/dfd62487-a22a-469b-966b-e2f50128c06c/public_url" target="_blank"><img width="75" height="75" src="https://github.com/user-attachments/assets/4f2c2ea1-be61-4788-b3ea-927f27ca276e"/></a></td>
   </tr>
+
+    
+
 </table>
 
 </div>
