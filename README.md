@@ -100,6 +100,7 @@
       <td align="center"><a href="https://www.credly.com/badges/d899e2c5-ecee-46a0-9b65-6694161ca289/public_url" target="_blank"><img width="75" height="75" src="https://github.com/user-attachments/assets/cf165fca-a81b-4e85-8aad-d0079af8a4f0"/></a></td>
       <td align="center"><a href="https://www.credly.com/badges/e329cf46-4ce9-4ed8-8041-1c137aa98c35/public_url" target="_blank"><img width="75" height="75" src="https://github.com/user-attachments/assets/a4c51bb9-fc35-4700-8368-8f9c40854792"/></a></td>
       <td align="center"><a href="https://www.credly.com/badges/52ae33a1-06db-4eba-94db-ed06fc849eed/public_url" target="_blank"><img width="70" height="70" src="https://github.com/user-attachments/assets/f10c6866-9ae9-439a-aa21-c96823c9aee7" /></a></td>
+      <td align="center"><a href="https://www.credly.com/badges/07759cc5-4397-4f0e-8994-7df66eff9545/public_url" target="_blank"><img width="70" height="70" src="https://github.com/user-attachments/assets/fe10fb88-653e-4e3d-b7d5-c6937d9011a7" /></a></td>
   </tr>
 
 </table>
